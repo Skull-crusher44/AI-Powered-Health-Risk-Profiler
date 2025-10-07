@@ -31,6 +31,14 @@ To get the project running on your local machine, follow these steps.
     npm start
     ```
 *   The server will be running at `http://localhost:3000`.
+*   
+## Techstack Used
+
+*   **Backend:** Node.js, Express.js
+*   **AI:** Groq SDK for large language model integration.
+*   **OCR:** Tesseract.js for text extraction from images.
+*   **File Handling:** Multer for managing file uploads.
+*   **Environment Management:** Dotenv for handling environment variables.
 
 ## API Usage
 
